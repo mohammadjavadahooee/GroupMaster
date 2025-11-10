@@ -17,3 +17,4 @@
 برای شروع ربات، دستور زیر را اجرا کنید:
 ```bash
 python bot.py
+# GroupMaster
